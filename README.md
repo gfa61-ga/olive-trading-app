@@ -12,5 +12,5 @@
 6. Download and install MySQL Administrator version 1.1.9 for windows from https://downloads.mysql.com/archives/administrator/
 7. Run MySQL Administrator and connect to localhost Mysql, as root user with the MySql password you set above
 8. Select Restore/Open BackUp File and select setdatabase.sql file and Start Restore
-9. Open the application at http://localhost/
+9. Open the application at http://localhost/  {username: 'bali', password: 'elies!!!'}
 10. Open http://localhost/phpMyAdmin/ when you need to admin the database content (connect as root user with your MySql password)
