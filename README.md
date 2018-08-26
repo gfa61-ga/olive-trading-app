@@ -1,5 +1,8 @@
 
-# Olive Olive trading app (In Greek language)
+# Olive trading app (In Greek language)
+
+Monitors shipments and payments of olives, using php and MySQL.
+
 [Live demo](http://elies-app.000webhostapp.com)
 
 ## Installation and run
